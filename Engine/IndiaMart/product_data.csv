@@ -1,0 +1,76 @@
+Product Name,Description,Price,Seller Name
+Bananas,Fresh ripe bananas,$0.49,FreshFoods
+White Bread,Soft and fluffy white bread,$1.99,FreshFoods
+Large Eggs,Dozen large white eggs,$2.29,FreshFoods
+Vanilla Yogurt,"Creamy vanilla yogurt, family size",$3.99,FreshFoods
+Baby Carrots,"Sweet baby carrots, pre-washed",$0.99,FreshFoods
+Ground Turkey,"Lean ground turkey, 93% lean",$4.49,FreshFoods
+Brown Rice,Whole grain brown rice,$2.79,FreshFoods
+Strawberries,Fresh ripe strawberries,$3.99,FreshFoods
+Soy Milk,"Organic soy milk, unsweetened",$2.49,FreshFoods
+Cucumbers,"Crisp cucumbers, pack of 3",$1.29,FreshFoods
+Spaghetti,Durum wheat spaghetti noodles,$1.69,FreshFoods
+Cauliflower,Fresh cauliflower head,$2.99,FreshFoods
+Tilapia Fillets,Fresh tilapia fillets,$7.99,FreshFoods
+Russet Potatoes,"Russet potatoes, 5 lb bag",$2.49,FreshFoods
+Orange Juice,Freshly squeezed orange juice,$4.29,FreshFoods
+Gala Apples,"Crisp Gala apples, perfect for snacking",$1.99,FreshMart
+Multigrain Bread,"Healthy multigrain bread, assorted grains",$3.29,FreshMart
+Organic Free-Range Eggs,"Organic free-range brown eggs, pack of 12",$6.49,FreshMart
+Coconut Water,"Refreshing coconut water, natural electrolytes",$2.99,FreshMart
+Baby Kale,"Tender baby kale leaves, great for salads",$2.49,FreshMart
+Ground Chicken,"Fresh ground chicken, 93% lean",$4.79,FreshMart
+Whole Wheat Penne,"Whole wheat penne pasta, high in fiber",$1.99,FreshMart
+Blueberries,"Plump and sweet blueberries, pint",$3.99,FreshMart
+Almond Butter,"Creamy almond butter, unsweetened",$5.99,FreshMart
+Organic Zucchini,"Fresh organic zucchini, medium-sized",$1.79,FreshMart
+Brown Basmati Rice,"Brown basmati rice, fragrant and nutty",$4.49,FreshMart
+Asparagus Spears,"Fresh asparagus spears, tender and flavorful",$3.49,FreshMart
+Wild-Caught Cod Fillets,"Wild-caught cod fillets, skinless and boneless",$10.99,FreshMart
+Organic Red Potatoes,"Organic red potatoes, 3 lb bag",$2.99,FreshMart
+Green Smoothie Mix,"Organic green smoothie mix, packed with nutrients",$6.99,FreshMart
+Organic Apples,"Fresh organic apples, crisp and sweet",$2.99,GreenMart
+Whole Wheat Bread,Nutritious whole wheat bread slices,$3.49,GreenMart
+Cage-Free Eggs,Dozen cage-free brown eggs,$4.99,GreenMart
+Greek Yogurt,"Creamy Greek yogurt, assorted flavors",$2.79,GreenMart
+Organic Spinach,Organic baby spinach leaves,$1.99,GreenMart
+Grass-Fed Beef,Lean grass-fed ground beef,$6.99,GreenMart
+Quinoa,"White quinoa, rich in protein",$5.49,GreenMart
+Avocado,"Ripe Hass avocado, ready to eat",$1.49,GreenMart
+Almond Milk,Unsweetened almond milk,$2.99,GreenMart
+Organic Tomatoes,Vine-ripened organic tomatoes,$3.29,GreenMart
+Whole Grain Pasta,Whole grain penne pasta,$2.19,GreenMart
+Organic Broccoli,Fresh organic broccoli florets,$2.49,GreenMart
+Wild Salmon Fillet,Wild-caught salmon fillet,$9.99,GreenMart
+Sweet Potatoes,Organic sweet potatoes,$1.89,GreenMart
+Green Tea,Organic green tea bags,$3.99,GreenMart
+Fuji Apples,Sweet and crunchy Fuji apples,$2.49,NatureFresh
+Whole Grain Sourdough Bread,Artisan whole grain sourdough bread,$4.99,NatureFresh
+Pasture-Raised Eggs,Dozen pasture-raised eggs,$7.99,NatureFresh
+Coconut Milk,"Creamy coconut milk, unsweetened",$1.99,NatureFresh
+Baby Spring Mix,"Organic baby spring mix, tender and flavorful",$3.99,NatureFresh
+Grass-Fed Lamb,Premium grass-fed lamb chops,$12.99,NatureFresh
+Brown Rice Noodles,Gluten-free brown rice noodles,$2.79,NatureFresh
+Raspberries,"Plump and juicy raspberries, 6 oz",$4.49,NatureFresh
+Cashew Butter,Rich and creamy cashew butter,$6.49,NatureFresh
+Organic Carrots,"Fresh organic carrots, bunch",$1.49,NatureFresh
+Quinoa Flour,"Nutty quinoa flour, gluten-free",$3.99,NatureFresh
+Green Beans,"Fresh green beans, crisp and tender",$2.29,NatureFresh
+Wild-Caught Sockeye Salmon,Wild-caught sockeye salmon fillets,$14.99,NatureFresh
+Sweet Corn,"Organic sweet corn, pack of 4",$3.29,NatureFresh
+Detox Tea Blend,"Organic detox tea blend, cleansing and refreshing",$5.99,NatureFresh
+Organic Bananas,Organic ripe bananas,$0.59,OrganicMarket
+Whole Grain Bread,"Whole grain bread, high fiber",$2.49,OrganicMarket
+Free-Range Eggs,Dozen free-range brown eggs,$5.49,OrganicMarket
+Coconut Yogurt,"Creamy coconut yogurt, dairy-free",$3.99,OrganicMarket
+Baby Spinach,Fresh baby spinach leaves,$2.29,OrganicMarket
+Grass-Fed Bison,Lean grass-fed bison meat,$9.99,OrganicMarket
+Quinoa Salad,Organic quinoa salad mix,$4.99,OrganicMarket
+Mangoes,"Ripe mangoes, assorted varieties",$1.99,OrganicMarket
+Cashew Milk,"Creamy cashew milk, unsweetened",$3.79,OrganicMarket
+Organic Kale,Fresh organic kale bunch,$2.79,OrganicMarket
+Brown Rice Pasta,Gluten-free brown rice pasta,$3.29,OrganicMarket
+Broccoli Florets,"Fresh broccoli florets, pre-cut",$2.99,OrganicMarket
+Wild-Caught Shrimp,"Wild-caught shrimp, peeled and deveined",$12.99,OrganicMarket
+Organic Sweet Onions,"Organic sweet onions, medium-sized",$1.69,OrganicMarket
+Herbal Tea Blend,"Organic herbal tea blend, soothing",$4.49,OrganicMarket

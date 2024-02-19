@@ -1,0 +1,11 @@
+product_id,product_name,category,features,brand,keywords,seller_id
+P0001,iPhone 13,Electronics,"['5G', 'A15 Bionic chip']",Apple,"['iPhone', 'Apple', 'Smartphone']",Seller002
+P0002,Samsung Galaxy S21,Electronics,"['5G', 'Exynos 2100']",Samsung,"['Samsung', 'Galaxy', 'Android']",Seller004
+P0003,MacBook Pro,Electronics,"['M1 chip', 'Retina display']",Apple,"['MacBook', 'Apple', 'Laptop']",Seller003
+P0004,Lenovo ThinkPad,Electronics,"['Intel Core processor', 'Windows 10']",Lenovo,"['ThinkPad', 'Lenovo', 'Laptop']",Seller005
+P0005,Nike Air Max,Clothing,"['Air Max cushioning', 'Mesh upper']",Nike,"['Air Max', 'Nike', 'Sneakers']",Seller004
+P0006,Adidas Ultraboost,Clothing,"['Boost cushioning', 'Primeknit upper']",Adidas,"['Ultraboost', 'Adidas', 'Sneakers']",Seller003
+P0007,Harry Potter and the Sorcerer's Stone,Books,"['Fantasy fiction', 'Wizardry']",J.K. Rowling,"['Harry Potter', 'Fantasy', 'Novel']",Seller001
+P0008,To Kill a Mockingbird,Books,"['Classic literature', 'Southern Gothic']",Harper Lee,"['To Kill a Mockingbird', 'Classic', 'Novel']",Seller003
+P0009,Amazon Echo Dot,Electronics,"['Voice control', 'Smart home integration']",Amazon,"['Echo Dot', 'Amazon', 'Smart speaker']",Seller003
+P0010,Google Nest Mini,Electronics,"['Voice control', 'Smart home integration']",Google,"['Nest Mini', 'Google', 'Smart speaker']",Seller002

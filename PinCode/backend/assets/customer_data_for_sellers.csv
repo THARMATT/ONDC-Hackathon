@@ -1,0 +1,31 @@
+customer_id,purchase_history,browsing_history,preferences
+ae41df7579ec9ce4733b47727b2b62121e17810ccbf45685c1b65fbddd617212,['Lenovo ThinkPad'],['Samsung Galaxy S21'],['To Kill a Mockingbird']
+9da6aae167b6d83fce577cd60d32fa607206c327c7236c1850accc5c708d5eb2,['Nike Air Max'],['MacBook Pro'],['Samsung Galaxy S21']
+becc3714c0f577a5c873dc028ccf5b05b6631ab807d7999d3e1185a4459f59e7,"['iPhone 13', 'Google Nest Mini', 'MacBook Pro']",['Adidas Ultraboost'],['Samsung Galaxy S21']
+4dba1ee7854208a36d42fe3d50bf7f16e6ba6c8d82b1e8cd29d3e9ebdedd4df1,"[""Harry Potter and the Sorcerer's Stone""]",['Amazon Echo Dot'],"[""Harry Potter and the Sorcerer's Stone""]"
+4c8816bbbd574cb48335732c615a917354eb3be29bd0c90340878e161e4b4438,"[""Harry Potter and the Sorcerer's Stone"", 'MacBook Pro']","['Google Nest Mini', 'Nike Air Max']","['Nike Air Max', 'Amazon Echo Dot']"
+eda158ea8103744f61762cc3ed1d3b1dc6804b946f225b4d9cca61d7045b02e9,"['iPhone 13', 'To Kill a Mockingbird', 'MacBook Pro']","['Adidas Ultraboost', ""Harry Potter and the Sorcerer's Stone""]","['To Kill a Mockingbird', 'Amazon Echo Dot']"
+732f425e3816127aa5ffb32322e9117a864dd3c2deb576247cbb97712aa33c53,"['iPhone 13', 'iPhone 13', 'Amazon Echo Dot']",['iPhone 13'],"['Nike Air Max', 'Amazon Echo Dot']"
+e864e8b0ca4947098cbd7457c9c3aea8c941bbccdfff8b555ff1e6117ff2fdce,['iPhone 13'],"['Adidas Ultraboost', 'Adidas Ultraboost', 'MacBook Pro']","['Nike Air Max', 'Samsung Galaxy S21', 'Amazon Echo Dot']"
+9a19bc969090a1b478b7db06c5967162b9a801ac75710d5208bea08e1c0c472c,"['To Kill a Mockingbird', 'Nike Air Max', 'Nike Air Max']",['Adidas Ultraboost'],"['Amazon Echo Dot', 'Amazon Echo Dot']"
+23cbe2ec231c88f82471506ca18e8a8da94b0a101c5e4584b3a3703be92ccaeb,"['Google Nest Mini', 'Amazon Echo Dot']",['Amazon Echo Dot'],"[""Harry Potter and the Sorcerer's Stone"", 'Adidas Ultraboost']"
+ae41df7579ec9ce4733b47727b2b62121e17810ccbf45685c1b65fbddd617212,"['Samsung Galaxy S21', 'Amazon Echo Dot']","['Amazon Echo Dot', ""Harry Potter and the Sorcerer's Stone""]",['Amazon Echo Dot']
+9da6aae167b6d83fce577cd60d32fa607206c327c7236c1850accc5c708d5eb2,"['Nike Air Max', 'Lenovo ThinkPad']",['Google Nest Mini'],"['To Kill a Mockingbird', 'Amazon Echo Dot']"
+becc3714c0f577a5c873dc028ccf5b05b6631ab807d7999d3e1185a4459f59e7,"['Lenovo ThinkPad', 'Amazon Echo Dot']","['Amazon Echo Dot', 'Lenovo ThinkPad', 'Adidas Ultraboost']","['Google Nest Mini', 'Amazon Echo Dot', 'Amazon Echo Dot']"
+4dba1ee7854208a36d42fe3d50bf7f16e6ba6c8d82b1e8cd29d3e9ebdedd4df1,"['iPhone 13', 'Google Nest Mini', 'Adidas Ultraboost']","['To Kill a Mockingbird', 'MacBook Pro']","[""Harry Potter and the Sorcerer's Stone""]"
+4c8816bbbd574cb48335732c615a917354eb3be29bd0c90340878e161e4b4438,"['Samsung Galaxy S21', 'MacBook Pro']","['Adidas Ultraboost', 'MacBook Pro', 'Google Nest Mini']","['Samsung Galaxy S21', ""Harry Potter and the Sorcerer's Stone""]"
+eda158ea8103744f61762cc3ed1d3b1dc6804b946f225b4d9cca61d7045b02e9,"['iPhone 13', 'To Kill a Mockingbird']",['MacBook Pro'],"['Samsung Galaxy S21', 'MacBook Pro', 'To Kill a Mockingbird']"
+732f425e3816127aa5ffb32322e9117a864dd3c2deb576247cbb97712aa33c53,['Adidas Ultraboost'],['Adidas Ultraboost'],"['Samsung Galaxy S21', 'Samsung Galaxy S21', 'Nike Air Max']"
+e864e8b0ca4947098cbd7457c9c3aea8c941bbccdfff8b555ff1e6117ff2fdce,"['To Kill a Mockingbird', 'MacBook Pro', 'To Kill a Mockingbird']","['iPhone 13', 'Adidas Ultraboost']","['To Kill a Mockingbird', 'Lenovo ThinkPad']"
+9a19bc969090a1b478b7db06c5967162b9a801ac75710d5208bea08e1c0c472c,"['iPhone 13', 'Nike Air Max', 'To Kill a Mockingbird']","['MacBook Pro', 'iPhone 13']","[""Harry Potter and the Sorcerer's Stone"", 'Nike Air Max', 'MacBook Pro']"
+23cbe2ec231c88f82471506ca18e8a8da94b0a101c5e4584b3a3703be92ccaeb,"['Google Nest Mini', 'Google Nest Mini', 'Google Nest Mini']","['iPhone 13', 'Samsung Galaxy S21']","['MacBook Pro', 'iPhone 13', 'Google Nest Mini']"
+ae41df7579ec9ce4733b47727b2b62121e17810ccbf45685c1b65fbddd617212,['Amazon Echo Dot'],['Samsung Galaxy S21'],['MacBook Pro']
+9da6aae167b6d83fce577cd60d32fa607206c327c7236c1850accc5c708d5eb2,"['Samsung Galaxy S21', 'Lenovo ThinkPad', ""Harry Potter and the Sorcerer's Stone""]","['Adidas Ultraboost', 'iPhone 13', 'Amazon Echo Dot']","['MacBook Pro', ""Harry Potter and the Sorcerer's Stone"", 'Adidas Ultraboost']"
+becc3714c0f577a5c873dc028ccf5b05b6631ab807d7999d3e1185a4459f59e7,['Google Nest Mini'],"['Google Nest Mini', ""Harry Potter and the Sorcerer's Stone""]","[""Harry Potter and the Sorcerer's Stone""]"
+4dba1ee7854208a36d42fe3d50bf7f16e6ba6c8d82b1e8cd29d3e9ebdedd4df1,['Google Nest Mini'],['Adidas Ultraboost'],"['Nike Air Max', 'Lenovo ThinkPad', ""Harry Potter and the Sorcerer's Stone""]"
+4c8816bbbd574cb48335732c615a917354eb3be29bd0c90340878e161e4b4438,['Samsung Galaxy S21'],['Nike Air Max'],"['Amazon Echo Dot', 'Adidas Ultraboost']"
+eda158ea8103744f61762cc3ed1d3b1dc6804b946f225b4d9cca61d7045b02e9,['iPhone 13'],"['iPhone 13', 'Amazon Echo Dot', 'Google Nest Mini']","['Amazon Echo Dot', 'MacBook Pro']"
+732f425e3816127aa5ffb32322e9117a864dd3c2deb576247cbb97712aa33c53,"['Adidas Ultraboost', 'Nike Air Max', 'Lenovo ThinkPad']","['Lenovo ThinkPad', 'Lenovo ThinkPad']","['To Kill a Mockingbird', 'Amazon Echo Dot', 'Lenovo ThinkPad']"
+e864e8b0ca4947098cbd7457c9c3aea8c941bbccdfff8b555ff1e6117ff2fdce,"['Google Nest Mini', ""Harry Potter and the Sorcerer's Stone"", 'Samsung Galaxy S21']","['Lenovo ThinkPad', 'Amazon Echo Dot', 'To Kill a Mockingbird']","['Adidas Ultraboost', 'Samsung Galaxy S21', 'Adidas Ultraboost']"
+9a19bc969090a1b478b7db06c5967162b9a801ac75710d5208bea08e1c0c472c,"[""Harry Potter and the Sorcerer's Stone"", 'To Kill a Mockingbird']","['To Kill a Mockingbird', 'Adidas Ultraboost', 'Lenovo ThinkPad']",['MacBook Pro']
+23cbe2ec231c88f82471506ca18e8a8da94b0a101c5e4584b3a3703be92ccaeb,"['To Kill a Mockingbird', 'Samsung Galaxy S21']","['Samsung Galaxy S21', ""Harry Potter and the Sorcerer's Stone"", 'Google Nest Mini']","['MacBook Pro', 'Google Nest Mini', 'Samsung Galaxy S21']"
